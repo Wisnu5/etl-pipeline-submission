@@ -88,3 +88,5 @@ Pastikan kamu telah menginstal:
    ```
 
 ---
+## Kontribusi
+Terbuka untuk kontribusi! Jika ingin berkontribusi, silakan buat pull request dan jelaskan perubahan yang Anda lakukan secara jelas.

@@ -30,7 +30,7 @@ def main():
     db_params = {
         'dbname': 'etl_submission',
         'user': 'postgres',
-        'password': 'wisnu154',  
+        'password': 'pass',  # ganti dengan pass anda
         'host': 'localhost',
         'port': '5432'
     }

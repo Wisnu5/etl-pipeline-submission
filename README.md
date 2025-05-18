@@ -31,10 +31,9 @@ submission-pemda/
 
 Pastikan kamu telah menginstal:
 
-1. **Python 3.11**
-2. **Git**
-3. **PostgreSQL** (dengan database bernama `etl_submission` dan user `postgres`)
-4. **Kredensial Google Cloud**: file `google-sheets-api.json` dari Google Cloud Console dengan Google Sheets & Drive API aktif
+1. **Python 3.11** atau versi terbaru
+2. **PostgreSQL** (dengan database bernama `etl_submission` dan user `postgres`)
+3. **Kredensial Google Cloud**: file `google-sheets-api.json` dari Google Cloud Console dengan Google Sheets & Drive API aktif
 
 ---
 

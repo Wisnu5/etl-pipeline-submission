@@ -88,7 +88,3 @@ Pastikan kamu telah menginstal:
    ```
 
 ---
-
-## 🛡️ Keamanan
-
-Pastikan file `google-sheets-api.json` dan file sensitif lainnya **sudah ditambahkan ke `.gitignore`**, agar tidak terunggah ke repository publik.
